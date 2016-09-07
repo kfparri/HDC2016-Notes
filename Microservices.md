@@ -43,9 +43,10 @@
 	 - Used to deploy to customers
  - He has a $1500 server farm!
 	 - It looks like he's using Microsoft Azure Service Fabric
-	 - ### Ask him about the hardware so I can see if I can build it
-		 - AsRock BeeBox PCs with a load balancer and network switch.
- - 5 machines for fault tolerance in the Service fabric setup
+	 - AsRock BeeBox PCs with a load balancer and network switch.
+		 - Each PC is running Windows Servers 2016
+		 - To demo the fault tolerance I will need at least 3 PCs for a POC
+ - 5 machines for fault tolerance in the Service fabric setup in class.
  - Swashbuckle.Core 
 	 - Adds Swagger.io to a web API application.
  - Microsoft.Owin.Filesystems
@@ -60,5 +61,5 @@
  - Abstract and dissolve
 	 - The process of moving legacy applications to the new paradigm
 	 - Abstract the data manipulation then dissolve the old way of doing it.
- - Managery Gateway
+ - Menagerie Gateway
  - 
